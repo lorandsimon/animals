@@ -3,3 +3,5 @@ pug
 german sheppard
 bulldog
 argentindog
+bishon
+berny
